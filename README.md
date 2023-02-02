@@ -7,3 +7,5 @@ For project I use different CAD systems, depending on stage of developing. I mod
 
 Now project have been still in progress, and need different improvements. 
 
+### Temporary model picture
+<img src = "Media/Photo.png">
